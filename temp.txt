@@ -1,0 +1,5 @@
+juda_sovuq rtr 0 10
+sovuq t 0 15 20
+normal tr 10 20 35 40
+issiq t 20 50 60
+juda_issiq ltr 50 70

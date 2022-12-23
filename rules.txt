@@ -1,0 +1,3 @@
+if temp is juda_sovuq or hum is kop then f(x,y)
+if hum is kam
+if temp is normal and hum is normal
